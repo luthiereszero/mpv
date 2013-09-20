@@ -2259,9 +2259,6 @@
 ``--tls-verify``
     Verify peer certificates when using TLS (e.g. with ``https://...``).
 
-, ", &network_tls_verify, CONF_TYPE_FLAG, 0, 0, 0, NULL},
-    {"tls-ca-file
-
 ``--tv=<option1:option2:...>``
     This option tunes various properties of the TV capture module. For
     watching TV with mpv, use ``tv://`` or ``tv://<channel_number>`` or
